@@ -1,0 +1,16 @@
+.main-bg {
+    background-color:rgb(191, 238, 152);
+}
+
+.bg-card{
+    background-color:rgb(216, 246, 216);
+}
+.cart-font{
+    font-size: small;
+}
+.bg-lightcolor{
+    background-color: rgb(238, 222, 191);
+}
+textarea {
+    resize: none;
+  }
