@@ -95,11 +95,12 @@ class OrderController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(Order $order)
+    public function show(Request $request, Order $order)
     {
-        //$books = PurchasedBook::getMyBooks($order);
+        if ($request->user()->cannot('view', $order)) {
+            abort(403);
+        }
         $order = $order->where('id',$order->id)->with('purchasedBooks.book.publisher')->first();
-       //$order->load('book')
         return view('orders.show', ['order' => $order]);
     }
 
