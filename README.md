@@ -36,15 +36,19 @@ Laravel 11, MySQL, Bootstrap 5
 ### Password is same for all users  - 'password' 
 ## Some screenshots
 ### Customer Login
-![reader-cart](https://github.com/vinod-ayckattu/onlinebookstore/assets/151558463/1b6e2a82-d8a4-486e-9508-cbef9fbc570f)
-![reader-review](https://github.com/vinod-ayckattu/onlinebookstore/assets/151558463/a68cf5f8-4ca7-4b0e-9a5d-50e99d507301)
-![reader-order](https://github.com/vinod-ayckattu/onlinebookstore/assets/151558463/cf7921ca-cf24-4a25-95e5-6987995249f5)
+![cust-1](https://github.com/vinod-ayckattu/bookstore/assets/151558463/39291cff-e955-41b6-9ff0-92cbdba7c18c)
+
+![cust-2](https://github.com/vinod-ayckattu/bookstore/assets/151558463/b55f63f8-314d-4afd-8ba7-12caa906b466)
+
+![cust-3](https://github.com/vinod-ayckattu/bookstore/assets/151558463/8de79782-f528-4f77-88ce-4c415cbe42b9)
+
 
 ### Publisher Login 
-![pub-main](https://github.com/vinod-ayckattu/onlinebookstore/assets/151558463/6d1a8c2c-83c4-4b67-ab24-3b15281be2b4)
-![pub-new-book](https://github.com/vinod-ayckattu/onlinebookstore/assets/151558463/f2637ec2-b8dc-44f6-8c03-cce6ab9fd356)
+![pub-1](https://github.com/vinod-ayckattu/bookstore/assets/151558463/10c421b2-a62f-4d49-94e6-60b9163aa32d)
+
+![pub-2](https://github.com/vinod-ayckattu/bookstore/assets/151558463/8222bd2b-1e87-4b62-b78f-9b102670a135)
 
 ### Administrator Login
+![adm-1](https://github.com/vinod-ayckattu/bookstore/assets/151558463/a01a8a5f-caa3-4a39-aed4-7e14e77b466d)
 
-![admin-main](https://github.com/vinod-ayckattu/onlinebookstore/assets/151558463/d32b06a1-5e52-4487-b75c-9b2c797a0a84)
-![admin-order](https://github.com/vinod-ayckattu/onlinebookstore/assets/151558463/f3b78bde-9a91-4b1e-bc02-9d9f0d9863d1)
+![adm-2](https://github.com/vinod-ayckattu/bookstore/assets/151558463/f6de9ad3-5397-4c93-b81e-0b331d892f9e)
